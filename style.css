@@ -1,0 +1,85 @@
+/* Navbar */
+
+.kxs {
+  font-size: 24px !important;
+}
+
+.nabvar {
+  padding-left: 170px;
+  font-size: 15px;
+}
+
+.red {
+  background-color: #ff6551;
+  border: none;
+  height: 52px;
+  width: 137px;
+  margin-left: 20px;
+}
+
+/* Showcase */
+
+.Quality {
+  font-size: 70px;
+}
+
+.lv {
+  font-size: 20px;
+}
+
+.buttton {
+  background-color: #ff6551;
+  border: none;
+  height: 52px;
+  width: 133px;
+  margin-right: 20px;
+}
+
+.btton {
+  height: 52px;
+  width: 163px;
+}
+
+/* Boxes */
+
+.darkk {
+  color: #ff6551;
+}
+
+.corse {
+  color: #252b42;
+  font-size: 40px;
+}
+
+.bolds {
+  color: #737373;
+  font-size: 17px;
+}
+
+.res {
+  width: 230px;
+  height: 288px;
+}
+
+.experts {
+  color: #252b42;
+  font-size: 18px;
+}
+
+/* card body */
+
+.build {
+  background-color: #26335d;
+}
+
+.darks {
+  color: #2435a1;
+}
+
+.img {
+  width: 100%;
+}
+
+/* .input-tag {
+  width: 600px;
+} */
